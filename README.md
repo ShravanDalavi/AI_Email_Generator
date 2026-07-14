@@ -100,6 +100,11 @@ The core logic is covered with lightweight unit tests:
 python -m unittest discover -s tests -v
 ```
 
+## Screenshot
+
+<img width="688" height="804" alt="image" src="https://github.com/user-attachments/assets/1931514d-ade0-455d-ba6e-b705e5a0ff93" />
+<img width="698" height="653" alt="image" src="https://github.com/user-attachments/assets/81d88703-398a-41b4-8a4a-65900e23243e" />
+
 ## Notes for GitHub
 
 - The app is modular and ready to be committed as-is.
