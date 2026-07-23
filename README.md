@@ -117,5 +117,7 @@ python -m unittest discover -s tests -v
 - If generation fails, verify the exact model tag exists locally.
 - If clipboard copy fails, the OS clipboard backend may be unavailable in the current session.
 
-## License
-Add your preferred license before publishing publicly.
+### Show Your Support
+**If you enjoyed this tutorial, don't forget to [⭐ star the repository](https://github.com/ShravanDalavi/AI_Email_Generator) and [follow for updates](https://github.com/ShravanDalavi).**
+
+**Thank you for exploring this repository! I hope you find these projects both interesting and useful. 😊**
